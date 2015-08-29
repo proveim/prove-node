@@ -1,0 +1,23 @@
+{
+  "name": "proveim",
+  "version": "0.0.2",
+  "description": "Prove",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/invelo/prove.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "http://support.prove.im"
+  },
+  "homepage": "http://developers.prove.im",
+  "dependencies": {
+    "configstore": "^1.2.1",
+    "lodash": "^3.10.1"
+  }
+}
